@@ -48,7 +48,7 @@ subprocess.run(['pip', 'install', 'scikit-image', '-q'], check=True)
 - Rudin, L., Osher, S. & Fatemi, E. (1992). Nonlinear total variation based noise removal algorithms. *Physica D*, 60, 259–268.
 - Xu, Z., Lian, X. & Feng, L. (2008). Image inpainting algorithm based on partial differential equation. *ISECS CCCM*, 120–124.
 
-## AI Declaration:
+## AI Declaration
 - AI was used to generate TikZ diagrams
 - Improve plot readability
 - Explain the code, debug, writing meaningful comments
